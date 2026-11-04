@@ -5,6 +5,7 @@ public class Bean {
 	private String Nom;
 	private String Prenom;
 	private boolean Etat;
+	private int age;
 	public String getNom() {
 		return Nom;
 	}
